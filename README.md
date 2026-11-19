@@ -16,7 +16,7 @@ This repository documents my deliverables for the **Cyber & AI Security · Secur
 
 | Task | Title | Deliverable | Status |
 | :--- | :--- | :--- | :--- |
-| **Task 1** | **Awareness Campaign Plan** | [4-Week Cyber & AI Security Campaign Plan](./task-1-campaign-plan/awareness-campaign-plan.md) | ✅ Completed |
+| **Task 1** | **Awareness Campaign Plan** | [4-Week Cyber & AI Security Campaign Plan](./task-1-campaign-plan/task-1-awareness-campaign-plan.md) | ✅ Completed |
 | **Task 2** | **Micro-Content Series** | 4-Week Educational Lessons + Interactive Polls/Quizzes (`./task-2-micro-content-series/`) | ⏳ In Progress |
 | **Task 3** | **Run & Measure a Mini Campaign** | 2-Week Live Campaign Before/After Report & Metrics (`./task-3-mini-campaign-results/`) | 🔜 Upcoming |
 
